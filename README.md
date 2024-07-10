@@ -1,7 +1,9 @@
-variable laundry
-variable red_basket
-variable white_basket
-variable delicate_basket
+# Task
+
+variable laundry,
+variable red_basket,
+variable white_basket,
+variable delicate_basket,
 variable other_basket
 
 for each cloth in laundry
