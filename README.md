@@ -1,4 +1,3 @@
-# Task
 variable laundry
 variable red_basket
 variable white_basket
